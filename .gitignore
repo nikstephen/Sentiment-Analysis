@@ -1,18 +1,1 @@
-<<<<<<< HEAD
-﻿__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-.ipynb_checkpoints/
-.vscode/
-.DS_Store
-node_modules/
-=======
 node_modules
->>>>>>> 7a7c03221933be573888152a7fd0b7dcca3e5757
